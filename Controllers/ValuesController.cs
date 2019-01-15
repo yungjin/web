@@ -16,7 +16,7 @@ namespace Web.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            Database db = new Database();
+            DataBase db = new DataBase();
             // dotnet add package MySql.Data --version 8.0.13 //설치 필요
             MySqlConnection conn = db.GetConnection();
             if(conn == null){
