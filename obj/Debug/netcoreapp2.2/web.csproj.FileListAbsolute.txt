@@ -12,3 +12,17 @@
 /root/web/obj/Debug/netcoreapp2.2/web.RazorTargetAssemblyInfo.cache
 /root/web/obj/Debug/netcoreapp2.2/web.dll
 /root/web/obj/Debug/netcoreapp2.2/web.pdb
+C:\이행\web\bin\Debug\netcoreapp2.2\web.deps.json
+C:\이행\web\bin\Debug\netcoreapp2.2\web.runtimeconfig.json
+C:\이행\web\bin\Debug\netcoreapp2.2\web.runtimeconfig.dev.json
+C:\이행\web\bin\Debug\netcoreapp2.2\web.dll
+C:\이행\web\bin\Debug\netcoreapp2.2\web.pdb
+C:\이행\web\obj\Debug\netcoreapp2.2\web.csprojAssemblyReference.cache
+C:\이행\web\obj\Debug\netcoreapp2.2\web.csproj.CoreCompileInputs.cache
+C:\이행\web\obj\Debug\netcoreapp2.2\web.RazorAssemblyInfo.cache
+C:\이행\web\obj\Debug\netcoreapp2.2\web.RazorAssemblyInfo.cs
+C:\이행\web\obj\Debug\netcoreapp2.2\web.AssemblyInfoInputs.cache
+C:\이행\web\obj\Debug\netcoreapp2.2\web.AssemblyInfo.cs
+C:\이행\web\obj\Debug\netcoreapp2.2\web.RazorTargetAssemblyInfo.cache
+C:\이행\web\obj\Debug\netcoreapp2.2\web.dll
+C:\이행\web\obj\Debug\netcoreapp2.2\web.pdb
